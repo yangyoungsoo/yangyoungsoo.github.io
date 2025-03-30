@@ -1,3 +1,3 @@
 # yangyoungsoo.github.io
 
-hello
+$e = mc^2$
